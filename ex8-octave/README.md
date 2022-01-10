@@ -1,0 +1,3 @@
+# Machine learning Andrew Ng
+For this weeks last task which was to compute gradients of X and Theta; I tried to use the method that was suggested in the pdf and sucessfully implemented it for X_grads. However, whatever I did, I couldn't solve Theta_grad with that method so I did it in another way.
+If somehow, somewhere, sometime, somebody reads this and come up with a solution for that, I would be happy to hear it.
